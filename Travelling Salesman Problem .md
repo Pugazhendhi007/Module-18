@@ -22,8 +22,7 @@ To write a Python program to find the shortest possible route that visits every 
 **Step 7**: End the program.
 
 ## PYTHON PROGRAM
-NAME: DEEPAPRITHA A
-REG NO: 212223090002
+
 
 ```
 # Python3 program to implement traveling salesman
